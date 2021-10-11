@@ -4,6 +4,8 @@ The feature can include the number of the bedrooms and number of the bathrooms i
 Also test the accuracy of the result prediction using the differnet test - Mean squared error test and the R^2 test.
 
 
-### Software used -
+### Software used :
 in this project we use jupyter notebook.
-DataSet: The data set is present is csv formatted file and this dataset contains the multiple columns such as - id, date, bedroooms, bathrooms, floor, waterfront, sqft_lot etc.
+
+### DataSet: 
+The data set is present is csv formatted file and this dataset contains the multiple columns such as - id, date, bedroooms, bathrooms, floor, waterfront, sqft_lot etc.
